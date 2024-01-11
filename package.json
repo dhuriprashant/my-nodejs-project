@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "csv-parser": "^3.0.0",
-    "jsforce": "^1.11.1"
+    "jsforce": "^1.11.1",
+    "faker": "^5.5.3"
   }
 }
